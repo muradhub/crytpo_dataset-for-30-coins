@@ -41,7 +41,7 @@ To run the code, you'll need to have Python and the required libraries installed
 3. Run the script:
 
     ```bash
-    python fetch_data.py
+    python 11getdata.py
     ```
 
 ## Usage
